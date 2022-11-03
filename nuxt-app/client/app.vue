@@ -1,10 +1,11 @@
 <template>
   <div>
     <NuxtButton />
+    <h2>nuxt3 demo</h2>
     <header>
       <nav>
         <ul>
-          <li><NuxtLink to="/">home</NuxtLink></li>
+          <li><NuxtLink to="/">hom22e</NuxtLink></li>
           <li><NuxtLink to="/about">About</NuxtLink></li>
           <li><NuxtLink to="/posts/1">Post 1</NuxtLink></li>
           <li><NuxtLink to="/posts/2">Post 2</NuxtLink></li>

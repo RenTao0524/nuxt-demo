@@ -1,5 +1,6 @@
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
+  srcDir: 'client/',
   runtimeConfig: {
     // The private keys which are only available server-side
     apiSecret: '123',
